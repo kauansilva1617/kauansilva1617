@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is Kauan Silva
+.I'm studying at Alura
+.I'm developing in the JavaScript language
+I use this space to organize and share my projects.
 <!--
 **kauansilva1617/kauansilva1617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
